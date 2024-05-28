@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **Stefewn.johnson10@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_CjmrGGt16ivq8Zhq-NVQqSG1-7mnlL1/edit?usp=sharing&ouid=118215257096803237187&rtpof=true&sd=true](https://docs.google.com/document/d/1_CjmrGGt16ivq8Zhq-NVQqSG1-7mnlL1/edit?usp=sharing&ouid=118215257096803237187&rtpof=true&sd=true)
-
 - ⚡ Fun fact **I Love to Code**
 
 <h3 align="left">Connect with me:</h3>
