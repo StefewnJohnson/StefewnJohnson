@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, OOP, Data Structures**
 
-- 📫 How to reach me **Stefewn.johnson10@gmail.com**
+- 📫 How to reach me **stefewn.johnson10@gmail.com**
 
 - ⚡ Fun fact **I Love to Code**
 
