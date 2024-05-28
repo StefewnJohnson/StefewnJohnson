@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefewnjohnson&label=Profile%20views&color=0e75b6&style=flat" alt="stefewnjohnson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stefewnjohnson" alt="stefewnjohnson" /></a> </p>
-
 - 🔭 I’m currently working on [Emotion Detector](https://colab.research.google.com/drive/1XwgZkSAnshuAvhUT4lCrOYmrEpCd8e3L?usp=sharing)
 
 - 🌱 I’m currently learning **Machine Learning**
