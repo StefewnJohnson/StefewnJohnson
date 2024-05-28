@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Emotion Detector](https://colab.research.google.com/drive/1XwgZkSAnshuAvhUT4lCrOYmrEpCd8e3L?usp=sharing)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **Java, OOP, Data Structures**
+- 💬 Ask me about **Java, OOP, data structures**
 
 - 📫 How to reach me **stefewn.johnson10@gmail.com**
 
-- ⚡ Fun fact **I Love to Code**
+- ⚡ Fun fact **I love to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
