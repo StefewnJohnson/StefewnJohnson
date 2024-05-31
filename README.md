@@ -1,5 +1,5 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=F78538&font=Ubuntu+Bold+700&pause=70&center=true&vCenter=true&lines=Welcome+to+my+Github+page;My+name+is+Stefewn+Johnson;Feel+free+to+connect+with+me!"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=F78538&font=Ubuntu+Bold+700&pause=70&center=true&vCenter=true&lines=Hi+👋,+my+name+is+Stefewn+Johnson;Welcome+to+my+Github+page;Feel+free+to+connect+with+me!"></h1>
 <h3 align="center">A passionate computer science developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
