@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 My Portfolio/Website Link: [https://stefewnjohnson.github.io](https://stefewnjohnson.github.io)
+- 👨‍💻 My Portfolio/Website: [https://stefewnjohnson.github.io](https://stefewnjohnson.github.io)
 
 - 💬 Ask me about **Java, OOP, data structures**
 
