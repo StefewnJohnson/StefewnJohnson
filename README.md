@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **machine learning**
 
+- 👨‍💻 All of my projects are available at [https://stefewnjohnson.github.io](https://stefewnjohnson.github.io)
+
 - 💬 Ask me about **Java, OOP, data structures**
 
 - 📫 How to reach me **stefewn.johnson10@gmail.com**
