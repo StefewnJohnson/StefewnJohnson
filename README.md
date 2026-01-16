@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefewnjohnson&label=Profile%20views&color=0e75b6&style=flat" alt="stefewnjohnson" /> </p>
 
-- 🔭 I’m currently working on [Emotion Detector](https://colab.research.google.com/drive/1XwgZkSAnshuAvhUT4lCrOYmrEpCd8e3L?usp=sharing)
+- 🔭 I’m currently working on [AI News Aggregator]([https://colab.research.google.com/drive/1XwgZkSAnshuAvhUT4lCrOYmrEpCd8e3L?usp=sharing](https://github.com/StefewnJohnson/AI-News-Aggregator))
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **artificial intelligence**
 
 - 👨‍💻 My [Portfolio/Website](https://stefewnjohnson.github.io)
 
