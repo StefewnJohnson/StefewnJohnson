@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **artificial intelligence**
 
-- 👨‍💻 My [Portfolio/Website](https://stefewnjohnson.github.io)
+- 👨‍💻 My [Portfolio/Website](https://stefewnjohnson.netlify.app/)
 
 - 💬 Ask me about **Java, OOP, data structures**
 
