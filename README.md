@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefewnjohnson&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="stefewnjohnson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefewnjohnson&show_icons=true&locale=en&theme=tokyonight" alt="stefewnjohnson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="stefewnjohnson" /></p>
