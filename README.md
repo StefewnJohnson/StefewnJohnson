@@ -36,7 +36,7 @@
   </tr>
 
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" width="40"/></td>
+    <td><img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay?ik-sanitizeSvg=true" width="40"/></td>
     <td><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"/></td>
@@ -70,7 +70,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/free-android-icon-svg-download-png-1175276.png" width="40"/></td>
     <td><img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png" width="40"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40"/></td>
-    <td><img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay?ik-sanitizeSvg=true" width="40"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" width="40"/></td>
   </tr>
 </table>
 
